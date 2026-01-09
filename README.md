@@ -1,6 +1,1 @@
-Simple code with GUI to calculate polio and measles vaccinations in egypt (Cairo) from 1975 to 2025 
-data from the Egyptian ministry of the health and population
-
-How to use the Code ?
-First open the code with IDE the gui will apear with simple screen put only the year of the birth in the date field 
-Example : 2005 
+A simple Java application with a GUI that calculates polio and measles vaccination coverage in Egypt (Cairo) from 1975 to 2025, based on data provided by the Egyptian Ministry of Health and Population.
